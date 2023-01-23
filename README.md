@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Binh Le @ltbinh3999
-- 👀 I’m interested in DevOps and WebDev
-- 🌱 I’m currently learning WebDev
+- 👀 I’m interested in DevOps
 - 📫 How to reach me: ltbinh3999@gmail.com
 
 <!---
